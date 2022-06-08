@@ -1,0 +1,14 @@
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.exe
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.deps.json
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.runtimeconfig.json
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.runtimeconfig.dev.json
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.dll
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.pdb
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.csproj.AssemblyReference.cache
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.AssemblyInfoInputs.cache
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.AssemblyInfo.cs
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.csproj.CoreCompileInputs.cache
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.dll
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.pdb
+C:\Dev\CEM-DeliberatePractice\2022\Wesley Weber Deliberate Practises\LeapYearChecker - NUnit - Module A4\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.genruntimeconfig.cache

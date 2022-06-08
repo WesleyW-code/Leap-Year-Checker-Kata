@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeapYearChecker", "LeapYearChecker\LeapYearChecker.csproj", "{DA37B456-AD29-4712-B910-3245E10EF33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearCheckerTests", "LeapYearCheckerTests\LeapYearCheckerTests.csproj", "{F06CFC09-EE8B-4B44-8492-ABA46ED6AE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA37B456-AD29-4712-B910-3245E10EF33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA37B456-AD29-4712-B910-3245E10EF33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA37B456-AD29-4712-B910-3245E10EF33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA37B456-AD29-4712-B910-3245E10EF33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06CFC09-EE8B-4B44-8492-ABA46ED6AE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06CFC09-EE8B-4B44-8492-ABA46ED6AE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06CFC09-EE8B-4B44-8492-ABA46ED6AE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06CFC09-EE8B-4B44-8492-ABA46ED6AE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D54C92F-9EDA-4593-9604-67B9435A52CD}
+	EndGlobalSection
+EndGlobal
